@@ -1,0 +1,8 @@
+Cara melihat website :
+- nyalakan laragon
+- tulis di direktori form-pengaduan : php artisan serve
+- lalu untuk url tambahkan /posts (halaman utama)
+
+Database : 
+menggunakan database SQLite cara melihat nya cukup mempunyai aplikasi TablePlus lalu ikuti tutorial di yt untuk membuat folder jika sudah masuki file database SQLite form-pengaduan.
+
